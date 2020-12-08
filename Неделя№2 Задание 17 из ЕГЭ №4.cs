@@ -2,7 +2,7 @@
 
 namespace Задание_17_из_ЕГЭ
 {
-    class Задание3    {
+    class Задание4    {
         static void Main(string[] args)
         {
             int counter = 0;
